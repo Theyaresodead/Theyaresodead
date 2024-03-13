@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyaresodead" alt="theyaresodead" /></a> </p>
 
-- 🔭 I’m currently working on Weather Forecast Application **Mausam Ki Jankaari**
+- 🔭 I’m currently working on Implementing Gemini **Project Gemini**
 
 - 🌱 I’m currently learning **Android Development**
 
