@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyaresodead" alt="theyaresodead" /></a> </p>
 
-- 🔭 I’m currently working on Implementing Gemini **Project Gemini**
+- 🔭 I’m currently working on Implementing Gemini **Hiking Application**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android and Springboot Developer**
 
 - 📫 How to reach me **utkarshtewari678@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lvdiwLJPHglkCqdKuQ5f5t8RIoRbgvqU/view?usp=drive_link](https://drive.google.com/file/d/1lvdiwLJPHglkCqdKuQ5f5t8RIoRbgvqU/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1lvdiwLJPHglkCqdKuQ5f5t8RIoRbgvqU/view?usp=drive_link](https://drive.google.com/file/d/1kqhk0W3I-i1yZOblMpPTmwhwoma3xZ8u/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
