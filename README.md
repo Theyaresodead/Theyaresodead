@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **utkarshtewari678@gmail.com**
 
-- 📄 Know about my experiences [:Resume Link]([https://drive.google.com/file/d/1lvdiwLJPHglkCqdKuQ5f5t8RIoRbgvqU/view?usp=drive_link](https://drive.google.com/file/d/1kqhk0W3I-i1yZOblMpPTmwhwoma3xZ8u/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kqhk0W3I-i1yZOblMpPTmwhwoma3xZ8u/view?usp=sharing]( Resume Link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
