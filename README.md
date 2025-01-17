@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyaresodead" alt="theyaresodead" /></a> </p>
 
-- 🔭 I’m currently working on Implementing Gemini **Hiking Application**
+- 🔭 I’m currently working on **Hiking Application**
 
 - 🌱 I’m currently learning **Javascript and React Native**
 
