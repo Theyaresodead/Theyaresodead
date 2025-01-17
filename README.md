@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tiwari</h1>
-<h3 align="center">A passionate Android and Java Developer from India</h3>
+<h3 align="center">Android and Springboot Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theyaresodead&label=Profile%20views&color=0e75b6&style=flat" alt="theyaresodead" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on Implementing Gemini **Hiking Application**
 
-- 🌱 I’m currently learning **Android and Springboot Developer**
+- 🌱 I’m currently learning **Javascript and React Native**
 
 - 📫 How to reach me **utkarshtewari678@gmail.com**
 
-- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1lvdiwLJPHglkCqdKuQ5f5t8RIoRbgvqU/view?usp=drive_link](https://drive.google.com/file/d/1kqhk0W3I-i1yZOblMpPTmwhwoma3xZ8u/view?usp=sharing))
+- 📄 Know about my experiences [:Resume Link]([https://drive.google.com/file/d/1lvdiwLJPHglkCqdKuQ5f5t8RIoRbgvqU/view?usp=drive_link](https://drive.google.com/file/d/1kqhk0W3I-i1yZOblMpPTmwhwoma3xZ8u/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
